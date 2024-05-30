@@ -1,0 +1,1 @@
+console.log('El script se ejecutó correctamente.');
