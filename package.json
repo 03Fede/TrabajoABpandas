@@ -1,0 +1,17 @@
+{
+  "name": "libreta_direcciones",
+  "version": "1.0.0",
+  "description": "Descripción de tu proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Federico",
+  "license": "MIT",
+
+  "dependencies": {
+    "dependencia1": "^1.0.0",
+    "dependencia2": "^2.0.0"
+  }
+}
